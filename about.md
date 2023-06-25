@@ -15,11 +15,11 @@ Eric has had a storied career spanning work in the performative and creative art
 
 ![eric teaching virtually](/images/IMG_8780.jpg)
 
-Eric has received a number of recognitions for his teaching as well as leadership and academic achievements. Before entering elementary education, Eric ran ran his nationally recognized photography business that involved coaching and mentoring both adult and young photographers, meeting client needs, and managing a team of professionals, all while balancing an intense shooting schedule. In the classroom, he has guided his students in the creation of their own audiobook library, the development of characters that gave us historical tours in VR, the designing of marketing materials for historical guided tours, and the production of podcasts as a part of a recent PBL for ocean conservation.
+Eric has received a number of recognitions for his teaching as well as leadership and academic achievements. Before entering elementary education, Eric ran his nationally recognized photography business that involved coaching and mentoring both adult and young photographers, meeting client needs, and managing a team of professionals, all while balancing an intense shooting schedule. In the classroom, he has guided his students in the creation of their own audiobook library, the development of characters that gave us historical tours in A/VR, the designing of marketing materials for those historical guided tours, and the production of podcasts as a part of a recent PBL for ocean conservation.
 
 ![eric teaching virtually](/images/IMG_5618.jpg)
 
-Currently our family is in foreign service in Nairobi, Kenya. I am building an instructional framework with a local school, consulting, and instructional coaching. At some point we will return to the US. 🇰🇪
+Currently his family is in foreign service in Nairobi, Kenya where he is building an instructional framework with a local school, consulting, and instructional coaching. At some point his family will return to the US... 🇰🇪
 
 ---
 
