@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-> **TLDR** I am a teacher and teacher educator from New England who approaches life with a bit of uncontrolled enthusiasm balanced out with a hefty dose of snark.
+> **TLDR** I am a teacher and teacher educator from New England (USA) who approaches life with a bit of uncontrolled enthusiasm balanced out with a hefty dose of snark. In addition to my consulting and professional development workshops, I am an adjunct professor of education and just wrapped up a year at a Kenyan primary school working on design and implementation.
 
 On the list of things that Eric finds particularly odd, writing about himself in the third person is certainly up there near the top. Eric has a B.A. in Music, an M.F.A. in Acting, and an M.Ed. In Elementary Curriculum and Instruction. His doctorate is forthcoming when he moves back to the US from Kenya. His current research interests include how we teach elementary students to communicate both in person and over technology, new literacies, reforming the methodologies for the teaching of systematic to pre-service teachers, and culturally responsive education practices through the lens of formalized prosody instruction. More than anything, though, he loves coffee, pizza and strawberry shortcake. Not together but… well now as he’s typing this he wonders… 
 
