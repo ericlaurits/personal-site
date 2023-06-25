@@ -15,8 +15,14 @@ cadet
 
 Financial accounting and financial reporting are often used as synonyms.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsGNurXcTqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  class="video"
+  src="https://www.youtube.com/embed/gsGNurXcTqw"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+  allowfullscreen></iframe>
 
+---
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
