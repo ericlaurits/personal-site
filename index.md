@@ -3,7 +3,7 @@ title: eric laurits - teacher and educational leader
 layout: home
 description: eric laurits is a teacher, professor, and educational consultant working throughout the world helping teachers and schools to grow responsively and responsibly.
 intro_image: "images/ericlanding.jpeg"
-intro_image_absolute: false
+intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true
 ---
