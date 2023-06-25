@@ -1,10 +1,10 @@
 ---
-title: "Accounting"
+title: "Professional Development"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Providing opportunities for teacher growth is vital for any school ecosystem. Professional development is most effective when it is driven by teacher agency, relevant and timely, and alignes with the values of your school.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
