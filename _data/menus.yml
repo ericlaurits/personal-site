@@ -6,10 +6,10 @@ main:
     url: "/about/"
     weight: 1
   - name: "CV"
-    url: "/images/eric_laurits_resume.pdf"
+    url: "/images/eric_laurits_resume.pdf target="_blank""
     weight: 3
   - name: "Newsletter"
-    url: "https://goseek.substack.com"
+    url: "https://goseek.substack.com target="_blank""
     weight: 4
   - name: "Contact"
     url: "/contact/"
