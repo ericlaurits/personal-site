@@ -5,10 +5,13 @@ description: About
 bodyClass: page-about
 ---
 
-On the list of things that Eric finds particularly odd, writing about himself in the third person is certainly up there near the top. Eric has a B.A. in Music, an M.F.A. in Acting, and an M.Ed. In Elementary Curriculum and Instruction. His doctorate is forthcoming when he moves back to the US from Kenya. His current research interests include how we teach elementary students to communicate both in person and over technology, new literacies, reforming the methodologies for the teaching of systematic to pre-service teachers, and culturally responsive education practices through the lens of formalized prosody instruction. More than anything, though, he loves coffee, pizza and strawberry shortcake. Not together but… well now as he’s typing this he wonders… Eric has had a storied career spanning work in the performative and creative arts as well public education and reform. His past experiences include teaching and consultancy work with George Mason University, Fairfax County Public Schools, the Denver Center, the AmeriCorps, Google, Chipotle, Greylock Partners, True Ventures, and throughout the photography industry.|![eric in a tie](/images/IMG_3298.JPG)
+On the list of things that Eric finds particularly odd, writing about himself in the third person is certainly up there near the top. Eric has a B.A. in Music, an M.F.A. in Acting, and an M.Ed. In Elementary Curriculum and Instruction. His doctorate is forthcoming when he moves back to the US from Kenya. His current research interests include how we teach elementary students to communicate both in person and over technology, new literacies, reforming the methodologies for the teaching of systematic to pre-service teachers, and culturally responsive education practices through the lens of formalized prosody instruction. More than anything, though, he loves coffee, pizza and strawberry shortcake. Not together but… well now as he’s typing this he wonders… 
 
+Eric has had a storied career spanning work in the performative and creative arts as well public education and reform. His past experiences include teaching and consultancy work with George Mason University, Fairfax County Public Schools, the Denver Center, the AmeriCorps, Google, Chipotle, Greylock Partners, True Ventures, and throughout the photography industry.
 
 **the short version** I am a teacher and teacher educator from New England who approaches life with a bit of uncontrolled enthusiasm balanced out with a hefty dose of snark. 
+
+![eric teaching virtually](/images/IMG_5618.jpeg)
 
 ---
 
@@ -39,17 +42,3 @@ https://prezi.com/p/ounx29sncoaa/tips-action-research-in-the-real-world/
 Brown, E. L., Casablanca, F., Dugan, J., Latham, C., Lee, N., & **Laurits, E.** (2018, March). Responsive partnerships, responsive educators, responsive students. Paper presented at the National Association of Professional Development Schools Conference. Jacksonville, FL.
 
 Brown, E. L., Lee, N. Latham, C., Dugan, J., Casablanca, F., & **Laurits, E.** (2018, March). Straddling classroom walls: Bringing a renewed commitment to our communities through PDS partnerships. Paper presented at the National Association of Professional Development Schools Conference. Jacksonville, FL.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
