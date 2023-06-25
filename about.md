@@ -5,9 +5,11 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+On the list of things that Eric finds particularly odd, writing about himself in the third person is certainly up there near the top. Eric has a B.A. in Music, an M.F.A. in Acting, and an M.Ed. In Elementary Curriculum and Instruction. Ph.D. forthcoming when he moves back to the US from Kenya. His current research interests include how we teach elementary students to communicate both in person and over technology, new literacies, reforming the methodologies for the teaching of systematic [[action research]] to pre-service teachers, and culturally responsive education practices through the lens of formalized [[prosody and audiobooks | prosody]] instruction. More than anything, though, he loves coffee, pizza and strawberry shortcake. Not together but… well now as he’s typing this he wonders…
+
+Eric has had a storied career spanning work in the performative and creative arts as well public education and reform. His past experiences include teaching and consultancy work with George Mason University, Fairfax County Public Schools, the Denver Center, the AmeriCorps, Google, Chipotle, Greylock Partners, True Ventures, and throughout the photography industry.
+
+Seriously though, I am a teacher and teacher educator from New England who approaches life with a bit of uncontrolled enthusiasm balanced out with a hefty dose of snark. Maybe you’d like to peek at my 3-word education philiosophies?
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
@@ -27,9 +29,13 @@ Relevance is the capacity of the financial information to influence the decision
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
+## Casual Bio
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+On the list of things that Eric finds particularly odd, writing about himself in the third person is certainly up there near the top. That aside, he is particularly required excited to share some information about himself with you. In his formalized education, Eric has a B.A. in Music, an M.F.A. In Acting, and an M.Ed. In Elementary Curriculum and Instruction. Chances are very good that he will continue collecting degrees for some time as he has yet to come close to curing his case of Curiosities. His current research interests include how we teach elementary students to communicate both in person and over technology, reforming the methodologies for the teaching of systematic action research to pre-service teachers, and culturally responsive education practices through the lens of formalized prosody instruction. More than anything, though, he loves coffee, pizza and strawberry shortcake. Not together but... well now as he's typing this he wonders...
+
+Eric has had a storied career spanning work in the performative and creative arts as well public education and reform. His past experiences include work with George Mason University, Fairfax County Public Schools, the Denver Center, the AmeriCorps, and the photography industry. 
+
+Eric has received a number of recognitions for his teaching as well as leadership and academic achievements. Before entering elementary education, Eric ran ran his nationally recognized photography business that involved coaching and mentoring both adult and young photographers, meeting client needs, and managing a team of professionals, all while balancing an intense shooting schedule. In the classroom, he has guided his students in the creation of their own audiobook library, the development of characters that gave us historical tours in VR, the designing of marketing materials for historical guided tours, and the production of podcasts as a part of a recent PBL for ocean conservation.
 
 ## Enhancing Qualitative Characteristics
 
@@ -68,9 +74,27 @@ The statement of cash flows considers the inputs and outputs in concrete cash wi
 
 > **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
 
-## Statement of financial position (balance sheet)
+## Selected Scholarship
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+### Writing
+
+Brown, E.L.; Groth, L.A., Parker, A; **Laurits, E.**; O’Brien, C. (in press) Pathways to Partnership: How a Differentiated Approach Sustained PDS Efforts During Times of Uncertainty. *School-University Partnerships Special Issue: Teaching in the Times of Uncertainty*.
+https://3atjfr1bmy981egf6x3utg20-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Brownetal.FINAL_.pdf
+
+### Presentations
+ 
+Groth, L.A., & **Laurits, E.** (February, 2021). Daniels Run and Mason: Stronger together. Keynote Address presented at the annual meeting of the National Association of Professional Development Schools, Virtual Conference.
+
+Groth, L.A., & **Laurits, E.** (February, 2021). Daniels Run and Mason PDS. Presentation at the annual meeting of the National Association of Professional Development Schools, Virtual Conference.
+
+Groth, L.A., **Laurits, E.**, Morrison, K., Gaskill, T., Beach, E., & Rucker, I.(February, 2020). _Notice, name, frame, follow: A framework for action research in a PDS._ Presentation at the annual meeting of the National Association of Professional Development Schools (Atlantic City, NJ).
+
+**Laurits, E.**, Rucker, I. (May, 2019) Action Research in the Real World: Notice, Name, frame, and follow. Keynote presentation at George Mason University's pre-service teacher action research symposium *TIPS* (Fairfax, VA)
+https://prezi.com/p/ounx29sncoaa/tips-action-research-in-the-real-world/
+
+Brown, E. L., Casablanca, F., Dugan, J., Latham, C., Lee, N., & **Laurits, E.** (2018, March). Responsive partnerships, responsive educators, responsive students. Paper presented at the National Association of Professional Development Schools Conference. Jacksonville, FL.
+
+Brown, E. L., Lee, N. Latham, C., Dugan, J., Casablanca, F., & **Laurits, E.** (2018, March). Straddling classroom walls: Bringing a renewed commitment to our communities through PDS partnerships. Paper presented at the National Association of Professional Development Schools Conference. Jacksonville, FL.
 
 - **fixed assets**
   - property
