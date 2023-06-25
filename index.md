@@ -11,3 +11,7 @@ show_call_box: true
 # Hi. I'm eric.
 
 You've found me! I work with schools building infastructure, designing learning experiences and curriculum, and providing instructional coaching and professional development both virtually and in-person. How can I help? 
+
+<div style="text-align: center;">
+<iframe src="https://goseek.substack.com/embed" width="320" height="280" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
