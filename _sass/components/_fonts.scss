@@ -5,3 +5,10 @@
 	font-display: swap;
 	src: local(''), url('../fonts/playfair-display.woff2') format('woff2');
 }
+@font-face {
+	font-family: 'OpenSans Condensed';
+	font-style: normal;
+	font-weight: 200;
+	font-display: swap;
+	src: local(''), url('../fonts/OpenSans-CondLight-webfont.woff') format('woff');
+}
