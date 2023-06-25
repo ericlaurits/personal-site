@@ -9,24 +9,27 @@ On the list of things that Eric finds particularly odd, writing about himself in
 
 Eric has had a storied career spanning work in the performative and creative arts as well public education and reform. His past experiences include teaching and consultancy work with George Mason University, Fairfax County Public Schools, the Denver Center, the AmeriCorps, Google, Chipotle, Greylock Partners, True Ventures, and throughout the photography industry.
 
+Eric has received a number of recognitions for his teaching as well as leadership and academic achievements. Before entering elementary education, Eric ran ran his nationally recognized photography business that involved coaching and mentoring both adult and young photographers, meeting client needs, and managing a team of professionals, all while balancing an intense shooting schedule. In the classroom, he has guided his students in the creation of their own audiobook library, the development of characters that gave us historical tours in VR, the designing of marketing materials for historical guided tours, and the production of podcasts as a part of a recent PBL for ocean conservation.
+
 **the short version** I am a teacher and teacher educator from New England who approaches life with a bit of uncontrolled enthusiasm balanced out with a hefty dose of snark. 
 
 ![eric teaching virtually](/images/IMG_5618.jpeg)
 
+Currently our family is in foreign service in Nairobi, Kenya. I am building an instructional framework with a local school, consulting, and instructional coaching. At some point we will return to the US. 🇰🇪
+
 ---
 
-# 3-Word Philosophies
+## 3-Word Philosophies
 
 > Learning is social, Silly honest kind, Teaching is differentiation, Vital > Inclusive, Reflect, reflect, reflect, Notice name frame, Community is vital, Social-emotional first, So what’s next?, Lead from within, Voice and choice, Eat more bread.
 
-Eric has received a number of recognitions for his teaching as well as leadership and academic achievements. Before entering elementary education, Eric ran ran his nationally recognized photography business that involved coaching and mentoring both adult and young photographers, meeting client needs, and managing a team of professionals, all while balancing an intense shooting schedule. In the classroom, he has guided his students in the creation of their own audiobook library, the development of characters that gave us historical tours in VR, the designing of marketing materials for historical guided tours, and the production of podcasts as a part of a recent PBL for ocean conservation.
 
 ## Selected Scholarship
 
 ### Writing
 
-Brown, E.L.; Groth, L.A., Parker, A; **Laurits, E.**; O’Brien, C. (in press) Pathways to Partnership: How a Differentiated Approach Sustained PDS Efforts During Times of Uncertainty. *School-University Partnerships Special Issue: Teaching in the Times of Uncertainty*.
-https://3atjfr1bmy981egf6x3utg20-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Brownetal.FINAL_.pdf
+Brown, E.L.; Groth, L.A., Parker, A; **Laurits, E.**; O’Brien, C. (in press) Pathways to Partnership: How a Differentiated Approach Sustained PDS Efforts During Times of Uncertainty. [*School-University Partnerships Special Issue: Teaching in the Times of Uncertainty*.](
+https://3atjfr1bmy981egf6x3utg20-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Brownetal.FINAL_.pdf)
 
 ### Presentations
  
@@ -37,7 +40,7 @@ Groth, L.A., & **Laurits, E.** (February, 2021). Daniels Run and Mason PDS. Pres
 Groth, L.A., **Laurits, E.**, Morrison, K., Gaskill, T., Beach, E., & Rucker, I.(February, 2020). _Notice, name, frame, follow: A framework for action research in a PDS._ Presentation at the annual meeting of the National Association of Professional Development Schools (Atlantic City, NJ).
 
 **Laurits, E.**, Rucker, I. (May, 2019) Action Research in the Real World: Notice, Name, frame, and follow. Keynote presentation at George Mason University's pre-service teacher action research symposium *TIPS* (Fairfax, VA)
-https://prezi.com/p/ounx29sncoaa/tips-action-research-in-the-real-world/
+[link](https://prezi.com/p/ounx29sncoaa/tips-action-research-in-the-real-world/)
 
 Brown, E. L., Casablanca, F., Dugan, J., Latham, C., Lee, N., & **Laurits, E.** (2018, March). Responsive partnerships, responsive educators, responsive students. Paper presented at the National Association of Professional Development Schools Conference. Jacksonville, FL.
 
