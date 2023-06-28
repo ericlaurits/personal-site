@@ -6,70 +6,24 @@ weight: 1
 
 Providing opportunities for teacher growth is vital for any school ecosystem. Professional development is most effective when it is driven by teacher agency, relevant and timely, and aligns with the values of your school.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/math-workshop.jpg)
 
-# Teacher Language
+## Teacher Language
 
-Financial accounting and financial reporting are often used as synonyms.
+![good dog](/images/good-dog.png)
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+The most foundational bedrock of teaching craft, improving and unifying teacher language alone can transform not only an individual's pedagogy, but an entire school culture. The research behind this workshop, which is typically done as a full day in two sessions or two separate sessions sessions on different days throughout the year, is drawn from the work of [Peter Johnston](https://www.albany.edu/education/faculty/peter-johnston), [Paula Denton and Responsive Classroom](https://www.responsiveclassroom.org/product/power-of-our-words/), [William Ayers](https://billayers.org/writings/to-teach/), [Learning for Justice](https://www.learningforjustice.org), and many other experts at the intersection of teaching and linguistics.
+
 
 ## Designing your Learning Environment
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+![room collage](/images/classroomlayout.png)
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+How do we as educators and stewards of children's aspirations set up and design our physical learning space for maximum impact? How can we do more with less? This workshop is designed to walk teachers and administrators through the process of designing their space. It is hands on, practical, works with what existing resources your school has available, and by the time the workshop is over, teachers are ready to facilitate their students' learning knowing their space has been designed for student agency, the various approaches to instruction that match their school's approach to pedagogy, and responsive instruction.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
 ## The Interactive Read Aloud
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+![Accounting Services](/images/read-aloud.jpg)
 
-## Managing all your S&*!
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
----
-
-## Project Based Learning (PBL)
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Making Workshop Happen
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+The days of simply reading out loud to our students are (or should be) well behind us as educators. The Interactive Read Loud workshop equips teachers and librarians with the skills and framework to, should they desire, teacher every single literacy lesson through read aloud. It prepares educators design their SEL lessons around the read aloud as well as drive inquiry through math in their read alouds. We have moved beyond 'Turn and Talk' and into 'Double up and Discuss.' When this workshop is finished, every participant will know how to evaluate the effectiveness of a text for their desired outcomes, where and how to craft discussion opportunities, and how to 'think outloud' while reading like a writer. Every participant creates and designs an IRA for use the following week directly tied to one of their lesson objectives.
