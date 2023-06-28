@@ -10,7 +10,7 @@ Providing opportunities for teacher growth is vital for any school ecosystem. Pr
 
 ## For the Love of Teachers
 
-Teachers are my favorite people in the world. As I am still in and out of the classroom on a yearly basis, I pride myself on maintaining a strong connection to working teachers and current best practices. We are in the trenches together. No teacher (I can tell you from personal experience) wants to hear PD from a teacher who hasn't been in the classroom in the past decade. Below you'll find the topics of my most recent workshops, though every school I work with gets custom designed workshops built specifically for them and their needs. The topics most requested from me are: relationship building, growing a culture of reading, teacher language, inquiry design, questioning, project based learning (PBL), math workshop, writing instruction...
+Teachers are my favorite people in the world. As I am still in and out of the classroom on a yearly basis, I pride myself on maintaining a strong connection to working teachers and current best practices. We are in the trenches together. No teacher (I can tell you from personal experience) wants to hear PD from a "teacher" who hasn't been in the classroom in the past decade. Below you'll find the topics of my most recent workshops, though every school I work with gets custom designed workshops built specifically for them and their needs. The topics most requested from me are: relationship building, growing a culture of reading, teacher language, inquiry design, questioning, project based learning (PBL), math workshop, writing instruction...
 
 ## Teacher Language
 
